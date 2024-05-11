@@ -30,7 +30,5 @@ DuckSearch is a command-line tool designed to scrape URLs from DuckDuckGo search
 | --dorks      | wayback_machine | Search in Wayback Machine                         |
 | --dorks      | show_ips        | Show only IP addresses                            |
 
-<br>
-
 ![image](https://github.com/WhiteH4T-Dev/DuckSearch/assets/83751620/74d165b9-b369-4116-b43a-3e3c2314d0a6)
 
